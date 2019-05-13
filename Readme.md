@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Сарварбек Ашуров](https://up.htmlacademy.ru/htmlcss/25/user/985601).
-* Наставник: [Лиза Позднякова](https://htmlacademy.ru/profile/lizzy).
+* Наставник: [Лиза Сенсей Позднякова](https://htmlacademy.ru/profile/lizzy).
 
 ---
 
